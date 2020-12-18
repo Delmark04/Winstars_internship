@@ -7,7 +7,7 @@ Current directory consists of 4 files:
 3. model.py - model, that predicts target to dataset "internship_hidden_test.csv"
 4. predict.csv - file, that contains target predicted by model
 
-To run this docker project, we need to open command line and execute next comands:
+To run this docker project, we need to open command line, go to the directory with this project and execute next comands:
 
 docker build . --tag predict
 
